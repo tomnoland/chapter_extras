@@ -52,7 +52,7 @@ git push origin master
 
 
 
-COMMAND="cd `pwd`; git add .; git commit -m $GIT_COMMIT_MESSAGE; git push origin master"
+COMMAND="cd `pwd`; git add .; git commit -m \"$GIT_COMMIT_MESSAGE\"; git push origin master"
 
 osascript 2>/dev/null <<EOF
     tell application "Terminal"
