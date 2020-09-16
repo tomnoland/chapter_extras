@@ -12,11 +12,13 @@
 
 ## Links
 
-[Contributing doc](https://github.com/freeCodeCamp/chapter/blob/master/CONTRIBUTING.md)
-
 [App](http://localhost:3000/)
 
 [GraphQL Playground](http://localhost:5000/graphql)
+
+[Github - Chapter](https://github.com/freeCodeCamp/chapter)
+
+[Contributing doc](https://github.com/freeCodeCamp/chapter/blob/master/CONTRIBUTING.md)
 
 ---
 
