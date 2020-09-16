@@ -1,14 +1,13 @@
 #!/bin/sh
 #####################################################################################
 ###
-###	Run Finder and open folder
+###	Run Finder and open current folder
 ###
 #####################################################################################
 
 FOLDER=\
 .
-./resources
-$CONTAINING_FOLDER
+
 
 
 APPLICATION=/System/Library/CoreServices/Finder.app
