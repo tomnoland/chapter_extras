@@ -24,7 +24,7 @@ git add README.md; git commit -m "Changed README.md file"; git push origin maste
 ## Init Button Panel
 
 ```bash
-java -jar Buttons.jar
+java -jar Buttons.jar&
 
 ```
 
