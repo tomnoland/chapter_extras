@@ -48,8 +48,15 @@ git add README.md; git commit -m "Changed README.md file"; git push origin maste
 
 ```bash
 cd ~
-git clone https://github.com/tomnoland/Tomcat-Local
-cd Tomcat-Local
+git clone https://github.com/tomnoland/chapter
+cd chapter
+
+```
+
+```bash
+cd ~
+git clone https://github.com/tomnoland/chapter_extras
+cd chapter_extras
 
 ```
 ---
@@ -90,7 +97,12 @@ git pull origin master
 
 
 ```bash
-cd New-Project-Template
+cd chapter
+
+```
+
+```bash
+cd chapter_extras
 
 ```
 
