@@ -14,7 +14,7 @@
 
 [App](http://localhost:3000/)
 
-[GraphQL Playground](http://localhost:5000/)
+[GraphQL Playground](http://localhost:5000/graphql)
 
 ---
 
