@@ -12,9 +12,9 @@
 
 ## Links
 
-[App](localhost:3000)
+[App](http://localhost:3000/)
 
-[GraphQL Playground](localhost:5000)
+[GraphQL Playground](http://localhost:5000/)
 
 ---
 
