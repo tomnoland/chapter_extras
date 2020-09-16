@@ -12,20 +12,42 @@
 
 ## Links
 
+[Contributing doc](https://github.com/freeCodeCamp/chapter/blob/master/CONTRIBUTING.md)
+
 [App](http://localhost:3000/)
 
 [GraphQL Playground](http://localhost:5000/graphql)
 
 ---
 
-## Push README
+# Chapter
 
+---
+
+## Push README
 
 ```bash
 git add README.md; git commit -m "Changed README.md file"; git push origin master
 
 ```
 
+---
+
+# Clone
+
+```bash
+git clone https://github.com/tomnoland/Chapter.git
+
+```
+
+---
+
+# Branch
+
+```bash
+git checkout -b fix/bbb
+
+```
 
 ---
 
