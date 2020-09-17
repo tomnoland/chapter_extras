@@ -16,6 +16,8 @@
 
 [GraphQL Playground](http://localhost:5000/graphql)
 
+[Discord Channel](https://discord.com/channels/633401573002969128/633826607617933353)
+
 [Github - Chapter](https://github.com/freeCodeCamp/chapter)
 
 [Contributing doc](https://github.com/freeCodeCamp/chapter/blob/master/CONTRIBUTING.md)
